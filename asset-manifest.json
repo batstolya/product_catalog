@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/product_catalog/static/css/main.5cf6a7e4.chunk.css",
+    "main.js": "/product_catalog/static/js/main.861a56f0.chunk.js",
+    "main.js.map": "/product_catalog/static/js/main.861a56f0.chunk.js.map",
+    "runtime-main.js": "/product_catalog/static/js/runtime-main.076c123b.js",
+    "runtime-main.js.map": "/product_catalog/static/js/runtime-main.076c123b.js.map",
+    "static/css/2.cf06dab4.chunk.css": "/product_catalog/static/css/2.cf06dab4.chunk.css",
+    "static/js/2.2b0149e4.chunk.js": "/product_catalog/static/js/2.2b0149e4.chunk.js",
+    "static/js/2.2b0149e4.chunk.js.map": "/product_catalog/static/js/2.2b0149e4.chunk.js.map",
+    "index.html": "/product_catalog/index.html",
+    "static/css/2.cf06dab4.chunk.css.map": "/product_catalog/static/css/2.cf06dab4.chunk.css.map",
+    "static/css/main.5cf6a7e4.chunk.css.map": "/product_catalog/static/css/main.5cf6a7e4.chunk.css.map",
+    "static/js/2.2b0149e4.chunk.js.LICENSE.txt": "/product_catalog/static/js/2.2b0149e4.chunk.js.LICENSE.txt",
+    "static/media/00.5b7ef52b.jpg": "/product_catalog/static/media/00.5b7ef52b.jpg",
+    "static/media/Logo.3c6bd188.svg": "/product_catalog/static/media/Logo.3c6bd188.svg",
+    "static/media/App.scss": "/product_catalog/static/media/slick.c94f7671.ttf",
+    "static/media/BannerSlider.scss": "/product_catalog/static/media/arrow-right.a96d198d.svg",
+    "static/media/Banner.scss": "/product_catalog/static/media/banner.330ccefb.jpeg",
+    "static/media/IconBlock.scss": "/product_catalog/static/media/favourites-icon.2901080b.svg",
+    "static/media/category__accessories.3b9d45fd.jpg": "/product_catalog/static/media/category__accessories.3b9d45fd.jpg",
+    "static/media/category__phones.5745f0cd.jpg": "/product_catalog/static/media/category__phones.5745f0cd.jpg",
+    "static/media/category__tablets.05b3d251.jpg": "/product_catalog/static/media/category__tablets.05b3d251.jpg",
+    "static/media/CardItem.scss": "/product_catalog/static/media/favorite.f5bcd0bb.svg",
+    "static/media/Header.scss": "/product_catalog/static/media/menu-opened.f9e13926.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.076c123b.js",
+    "static/css/2.cf06dab4.chunk.css",
+    "static/js/2.2b0149e4.chunk.js",
+    "static/css/main.5cf6a7e4.chunk.css",
+    "static/js/main.861a56f0.chunk.js"
+  ]
+}
